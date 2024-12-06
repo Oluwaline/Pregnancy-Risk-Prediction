@@ -42,11 +42,10 @@ The data set was taken from https://www.kaggle.com/datasets/csafrit2/maternal-he
 
   **Project Visualization**
   
-Project: https://cancer-classification.streamlit.app/
-http://192.168.1.66:8501/
+Project: https://pregnancy-risk-prediction-tqydt7vnsymjpwzdtaqdmq.streamlit.app/ 
 
-Streamlit using Anaconda prompt: streamlit run cancer-app.py
+Streamlit using Anaconda prompt: streamlit run app.py
 
-FastAPI: https://github.com/raquelcolares/Cancer_Classification/blob/main/cancer-api.py
+FastAPI: http://127.0.0.1:8000/docs#/default/predict_predict_get
 
-FastAPI using anaconda prompt: fastapi dev cancer-api.py
+FastAPI using anaconda prompt: fastapi dev api.py
