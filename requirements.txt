@@ -1,0 +1,9 @@
+streamlit
+fastapi
+uvicorn
+pandas
+numpy
+seaborn
+scikit-learn
+xgboost
+pickle
