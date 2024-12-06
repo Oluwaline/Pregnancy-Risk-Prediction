@@ -1,5 +1,9 @@
 Pregnancy Risk Prediction  ![img](https://github.com/user-attachments/assets/4ae07dc4-3f4b-4257-b093-96a65da6784c)
 
+<p align="center">
+    <img width="400" src="https://github.com/raquelcolares/Cancer_Classification/blob/main/cancer.png">
+</p>
+
 
  
 
