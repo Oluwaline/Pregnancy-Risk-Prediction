@@ -6,4 +6,3 @@ numpy
 seaborn
 scikit-learn
 xgboost
-pickle
