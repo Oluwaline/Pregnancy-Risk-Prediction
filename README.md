@@ -9,6 +9,8 @@
 
 
 Pregnancy is a profound and transformative experience that marks the beginning of a new life. It is the period during which a woman carries a developing fetus within her uterus, typically lasting about 40 weeks from the first day of the last menstrual period (LMP) to the birth of the baby. This journey is divided into three trimesters, each characterized by distinct stages of fetal development and maternal changes.
+
+
     - First trimester(week 1-12)
     - Second trimester (weeks 13-27)
     - Third trimester (weeks 28-40)
@@ -29,7 +31,22 @@ The specific objective
 - Offer an API for developers to integrate the risk prediction functionality into their applications.
 - Ensure that the predictions are accurate and reliable by using well-trained machine learning models.
 
+
+
   **About the Data Set**
 
+The data set was taken from https://www.kaggle.com/datasets/csafrit2/maternal-health-risk-data. It is a data set collected from different hospitals, community clinics, maternal health cares through the IoT based risk monitoring system.
+
+
+
+
+  **Project Visualization**
   
-- The data set was taken from https://www.kaggle.com/datasets/csafrit2/maternal-health-risk-data. It is a data set collected from different hospitals, community clinics, maternal health cares through the IoT based risk monitoring system.
+Project: https://cancer-classification.streamlit.app/
+http://192.168.1.66:8501/
+
+Streamlit using Anaconda prompt: streamlit run cancer-app.py
+
+FastAPI: https://github.com/raquelcolares/Cancer_Classification/blob/main/cancer-api.py
+
+FastAPI using anaconda prompt: fastapi dev cancer-api.py
